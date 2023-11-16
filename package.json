@@ -1,0 +1,16 @@
+{
+  "name": "pixels-nft",
+  "version": "1.0.0",
+  "description": "Example of pixels nft bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "m1theus",
+  "license": "ISC",
+  "dependencies": {
+    "colyseus.js": "^0.15.14",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  }
+}
